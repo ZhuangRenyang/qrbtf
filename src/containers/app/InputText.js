@@ -51,7 +51,7 @@ const InputText = ({dispatch}) => {
                     />
                     <input
                         className="Qr-input big-input"
-                        placeholder="https://qrbtf.com"
+                        placeholder="https://btf.illlli.com"
                         ref={textRef}
                         onBlur={(e) => {
                             handleInputUrl();
