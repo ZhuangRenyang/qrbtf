@@ -13,7 +13,7 @@ const PartFooter = () => (
                     href="https://illlli.com"
                     rel="noopener noreferrer"
                     target="_blank">虹色轨迹
-                </LinkTrace>&emsp;
+                </LinkTrace>
                 <span className="gray">&ensp;丨&ensp;</span>
                 <span><LinkTrace href="https://dil.illlli.com/privacy" rel="noopener noreferrer"
                                  target="_blank">隐私政策</LinkTrace><span className="gray">&ensp;丨&ensp;</span></span>
@@ -30,7 +30,7 @@ const PartFooter = () => (
                 <span><LinkTrace href="https://mus.illlli.com" rel="noopener noreferrer"
                          target="_blank">🌠在线音乐播放器</LinkTrace><span className="gray">&ensp;丨&ensp;</span></span>
                 <span><LinkTrace href="https://chat.illlli.com" rel="noopener noreferrer"
-                         target="_blank">ChatGPT🌠</LinkTrace><span className="gray">&ensp;丨&ensp;</span></span>
+                         target="_blank">ChatGPT🌠</LinkTrace></span>
             </div>
             <div className="Gray">
                 Copyright © {currentYear} BTF. 保留所有权利。<br/>

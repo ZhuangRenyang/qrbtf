@@ -11,12 +11,12 @@ import {isPC} from "../../utils/navigatorUtils";
 import {handleScroll} from "../../utils/gaHelper";
 
 const pictures = [
-    'https://7172-qrbtf-1d845d-1255694434.tcb.qcloud.la/QrbtfGallery/gallery04.jpg',
-    'https://7172-qrbtf-1d845d-1255694434.tcb.qcloud.la/QrbtfGallery/gallery02.jpg',
-    'https://7172-qrbtf-1d845d-1255694434.tcb.qcloud.la/QrbtfGallery/gallery01.jpg',
-    'https://7172-qrbtf-1d845d-1255694434.tcb.qcloud.la/QrbtfGallery/gallery03.jpg',
-    'https://7172-qrbtf-1d845d-1255694434.tcb.qcloud.la/QrbtfGallery/gallery05.jpg',
-    'https://7172-qrbtf-1d845d-1255694434.tcb.qcloud.la/QrbtfGallery/gallery06.jpg',
+    'https://f005.backblazeb2.com/file/illlli/047c509e-0ee1-4e42-80a0-b4cebdb6d589.webp',
+    'https://f005.backblazeb2.com/file/illlli/2f0b9d93-e266-4c93-b2d2-588e38b4de7b.webp',
+    'https://f005.backblazeb2.com/file/illlli/1652aa15-4358-4c50-bf0b-db117060a405.webp',
+    'https://f005.backblazeb2.com/file/illlli/8197826c-eb39-4f2e-aef0-f3565ed5467c.webp',
+    'https://f005.backblazeb2.com/file/illlli/51fba416-4b82-4dd7-abd6-9c17bcb1667e.webp',
+    'https://f005.backblazeb2.com/file/illlli/359829c2-84bc-44d3-b370-7ce10eafeed7.webp',
 ]
 
 const PartMore = () => {
